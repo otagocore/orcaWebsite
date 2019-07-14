@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on University of Otago Core Repository and Analytical Facility</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on University of Otago Core Repository and Analytical Facility</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/geotekmscl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/geotekmscl/</guid>
+      <description>Geotek Multi Sensor Core Logger The Geotek MSCL situated at ORCA is an instrument for gathering data in an automated and quality-controlled way. The parameters that can be measured are
+ P-wave velocity; Gamma density; Magnetic susceptibility using both loop and point sensors; Electrical resistivity; Colour linescan imaging including RGB data at sub-millimeter resolution Colour spectrophotometry  Measurements are typically made at a 5mm Resolution with the exception of the loop magnetic susceptibility on whole cores which is measured at a 20mm Resolution.</description>
+    </item>
+    
+    <item>
+      <title>Facilities</title>
+      <link>/project/equipment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/equipment/</guid>
+      <description> The Otago Coring Repository has the following facilities and equipment:
+ Geotek MultiSensor Core Logger iTrax XRF core scanner Geotek Core Splitter Multiple Refrigerated Containers for Core Storage Bench space with access to natural light for visual core logging  Other facilities available for analysis of cores and core samples at the University of Otago include
+ The Otago Paleomagnetic Research Facility located in the Geology Department. This facility contains  Cryogenic Magnetometer located in a magnetic feild free room MFK1 Kappabridge Vibrating Sample Magnetometer  Laser Grain Size Analyser located in the Geography Department  </description>
+    </item>
+    
+    <item>
+      <title>iTrax XRF Corescanner</title>
+      <link>/project/itrax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/itrax/</guid>
+      <description>The Cox Analytical Systems iTrax XRF Corescanner can be used to obtain high resolution geochemical and image data from split drill cores, wet sediments and discrete samples. The itrax has the ability to measure core diameters between 60 and 120mm at resolutions that can range between a minimum of 0.1 mm and a maximum of 10 mm.
+The iTrax has the ability to
+ measure multiple elements between Al and U in a single run, generally down to ppm levels for most metals.</description>
+    </item>
+    
+  </channel>
+</rss>

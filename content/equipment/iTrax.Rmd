@@ -1,0 +1,87 @@
+---
+title: "iTrax XRF Corescanner"
+output: html_document
+#runtime: shiny
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(shiny)
+```
+
+The Cox Analytical Systems iTrax XRF Corescanner can be used to obtain high resolution geochemical and image data from split drill cores, wet sediments and discrete samples. The itrax has the ability to measure core diameters between 60 and 120mm at resolutions that can range between a minimum of 0.1 mm and a maximum of 10 mm. 
+
+The iTrax has the ability to 
+
+ *  measure multiple elements between Al and U in a single run, generally down to ppm levels for most metals. 
+ * take X-Ray images that can show variations in the core due to density or chemical variations. These variations may be invisable to the naked eye
+ * take digital rgb images using a high resolution line scan camera
+
+The core facility currently has two xrf tubes. A 2200 W Chromium tube and a 3000W Molybdenum
+
+
+```{r echo=FALSE}
+
+library(shiny)
+
+# Define UI for application that draws a histogram
+ui <- fluidPage(
+   
+#removes spin wheels from numeric input boxes  
+  tags$style(HTML("
+        input[type=number] {
+                  -moz-appearance:textfield;
+                  }
+                  input[type=number]::{
+                  -moz-appearance:textfield;
+                  }
+                  input[type=number]::-webkit-outer-spin-button,
+                  input[type=number]::-webkit-inner-spin-button {
+                  -webkit-appearance: none;
+                  margin: 0;
+                  }
+                  ")),
+  
+  
+   # Application title
+   titlePanel(("Calculate Approximate iTrax Run Time")
+              
+              ),
+  tags$br(),
+   splitLayout(
+     numericInput(inputId = "niRes", "Scan Resolution (mm)",value=0, width = "30%"),
+  
+   numericInput(inputId = "niLength","Core Length (meters)",value=0, width = "30%"),
+   
+   numericInput(inputId = "niXray", "X-Ray exposure time (Seconds)",value=0,width = "30%"),
+   
+   numericInput(inputId = "niXRF", "XRF exposure time (Seconds)",value=0,width = "30%")
+   ),
+  
+  fluidPage(            
+                         
+    
+    h4("The approximate time in hours it will take to process your core is: "),
+            tags$br(),
+    h5(textOutput(outputId = "time"))
+    
+    )
+)
+
+# Define server logic required to draw a histogram
+server <- function(input, output) {
+  
+  
+  totalmeas<-reactive({(input$niLength*1000)/input$niRes})
+  
+ totalTime<-reactive({((totalmeas()*input$niXray)+(totalmeas()*0.2))+((totalmeas()*input$niXRF)+(totalmeas()*0.2))})
+  
+  output$time<-renderText({totalTime()/3600})
+
+}
+
+# Run the application 
+shinyApp(ui = ui, server = server)
+
+```
