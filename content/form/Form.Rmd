@@ -13,6 +13,6 @@ title: "SubbmissionForm"
 
 ```
 
-https://form.jotform.co/90431411365852
+<!-- https://form.jotform.co/90431411365852 -->
 
-<iframe src="https://form.jotform.co/90431411365852" style="border: 0" frameborder="0" scrolling="no" width="4000" height = "1000"></iframe>
+<iframe src="https://form.jotform.co/90431411365852" width="800" height = "1500" style="border: 0" frameborder="0" scrolling="yes"></iframe>
