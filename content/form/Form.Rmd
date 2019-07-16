@@ -1,5 +1,5 @@
 ---
-title: "SubbmissionForm"
+title: "Subbmission Form"
 ---
 
 ```{r setup, include=FALSE}

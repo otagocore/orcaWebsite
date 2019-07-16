@@ -45,8 +45,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 4
     
 [[menu.main]]
-    url = "/form/Form"
-    name = "Test"
+    url = "/Rates/rates"
+    name = "Rates"
     weight = 5
     
 # Social icons to be shown on the right-hand side of the navigation bar

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rates on University of Otago Core Repository and Analytical Facility</title>
+    <link>/rates/</link>
+    <description>Recent content in Rates on University of Otago Core Repository and Analytical Facility</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/rates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rates for Hire</title>
+      <link>/rates/rates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/rates/rates/</guid>
+      <description>Geotek Internal University Use: $ 50/hr, min charge of 4 hours
+External Research Use: $80/hr (non commercial entities i.e CRI’s, other universities etc)
+Commercial Use: $150/hr
+Training Fee of $200 + Geotek time
+ iTrax Principal User Use: $100/hr (see list below incl students and collaborators)
+Outside Principal Group: $130/hr (non commercial entities i.e CRI’s, other universities etc)
+Commercial Use: $250/hr
+Training Fee of $200 + iTrax time
+ Technician Costs $65/hour for the first 2 categories on both lists</description>
+    </item>
+    
+  </channel>
+</rss>
