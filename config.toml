@@ -10,10 +10,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [permalinks]
    # post = "/:year/:month/:day/:slug/"
 
+
+
+
 [params]
-    author = "Nate Day"
-    description = "test test test"
-    logo = "/orcaWebsite/config_files/20190620_095334.jpg)"
+    author = "Bob Dagg"
+    description = "The Otago Analytical Core Repository contains infrastructue and equipment that allows the detailed analysis of core samples  "
+    logo = "/orcaWebsite/config_files/20190620_095334.jpg"
     twitterAuthor = "@natedayta"
     githubUsername = "nathancday"
     accent = "#386890" # dark colors do best

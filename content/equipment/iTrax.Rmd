@@ -31,7 +31,9 @@ knitr::include_graphics("/equipment/iTrax_files/Redicore.png")
  
 
 The core facility currently has two xrf tubes. A 2200 W Chromium tube and a 3000W Molybdenum
-
+  
+    
+The speed at which core can be analysed in the iTrax varies depending on a number of paprmenters. 
 To calculate the approximate time it will take to scan a length of core please fill out the fields below
 
 
