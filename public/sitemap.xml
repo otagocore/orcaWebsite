@@ -129,6 +129,10 @@
   </url>
   
   <url>
+    <loc>/form/form/</loc>
+  </url>
+  
+  <url>
     <loc>/equipment/</loc>
     <priority>0</priority>
   </url>
@@ -149,10 +153,6 @@
   
   <url>
     <loc>/rates/rates/</loc>
-  </url>
-  
-  <url>
-    <loc>/form/form/</loc>
   </url>
   
   <url>

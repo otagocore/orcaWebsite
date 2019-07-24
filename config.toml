@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Bob Dagg"
-    description = "The Otago Analytical Core Repository contains infrastructue and equipment that allows the detailed analysis of core samples  "
+    description = "The Otago Analytical Core Repository contains infrastructue and equipment that allows the detailed analysis of core samples including an iTrax XRF, Geotek MSCL and a large lab area for logging and sampling cores.  "
     logo = "/orcaWebsite/config_files/20190620_095334.jpg"
     twitterAuthor = "@natedayta"
     githubUsername = "nathancday"
@@ -40,7 +40,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     
 [[menu.main]]
     url = "/form/Form"
-    name = "Forms"
+    name = "Contact"
     weight = 4
     
 [[menu.main]]
