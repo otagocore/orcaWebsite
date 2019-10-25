@@ -11,16 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>/equipment/geotekmscl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/equipment/geotekmscl/</guid>
-      <description>Geotek Multi Sensor Core Logger The Geotek MSCL situated at ORCA is an instrument for gathering data in an automated and quality-controlled way. The parameters that can be measured are
- P-wave velocity; Gamma density; Magnetic susceptibility using both loop and point sensors; Electrical resistivity; Colour linescan imaging including RGB data at sub-millimeter resolution Colour spectrophotometry  Measurements are typically made at a 5mm Resolution with the exception of the loop magnetic susceptibility on whole cores which is measured at a 20mm Resolution.</description>
-    </item>
-    
-    <item>
       <title>Facilities</title>
       <link>/equipment/equipment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,6 +19,16 @@
       <description> The Otago Coring Repository has the following facilities and equipment:
  Geotek MultiSensor Core Logger iTrax XRF core scanner Geotek Core Splitter Multiple Refrigerated Containers for Core Storage Bench space with access to natural light for visual core logging  Other facilities available for analysis of cores and core samples at the University of Otago include
  The Otago Paleomagnetic Research Facility located in the Geology Department. This facility contains  Cryogenic Magnetometer located in a magnetic feild free room MFK1 Kappabridge Vibrating Sample Magnetometer  Laser Grain Size Analyser located in the Geography Department  </description>
+    </item>
+    
+    <item>
+      <title>Geotek Multi-Sensor Core Logger</title>
+      <link>/equipment/geotekmscl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/equipment/geotekmscl/</guid>
+      <description>The Geotek MSCL situated at ORCA is an instrument for gathering data in an automated and quality-controlled way. The parameters that can be measured are
+ P-wave velocity; Gamma density; Magnetic susceptibility using both loop and point sensors; Electrical resistivity; Colour linescan imaging including RGB data at sub-millimeter resolution Colour spectrophotometry  Measurements are typically made at a 5mm Resolution with the exception of the loop magnetic susceptibility on whole cores which is measured at a 20mm Resolution.</description>
     </item>
     
     <item>
