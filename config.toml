@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     #author = "Bob Dagg"
-    description = "The Otago Repository for Core Analysis contains infrastructure and equipment that allows the detailed analysis of core samples including an iTrax XRF, a Geotek MSCL and a large lab area for logging and sampling cores."
+    description = "The Otago Repository for Core Analysis contains infrastructure and equipment that allows detailed analysis of core samples including an iTrax XRF, a Geotek MSCL and a large lab area for logging and sampling cores."
     accent = "#386890" # dark colors do best
     backgroundColor = "#f5f5f5"
     #font = "Mina" # should match the name on Google Fonts!
@@ -26,21 +26,31 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "Home"
     weight = 1
 
-
 [[menu.main]]
     url = "/equipment/Equipment"
     name = "Equipment"
-    weight = 3
+    weight = 2
     
 [[menu.main]]
     url = "/form/Form"
     name = "Contact"
-    weight = 4
+    weight = 3
     
 [[menu.main]]
     url = "/Rates/rates"
     name = "Rates"
-    weight = 5
+    weight = 4
+    
+[[menu.main]]
+    url = "https://blogs.otago.ac.nz/drill-otago/"
+    name = "Blog"
+    weight = 5    
+
+    
+[[menu.main]]
+    url = "/Links/link"
+    name = "Links"
+    weight = 6
     
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used

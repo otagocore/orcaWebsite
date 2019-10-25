@@ -27,7 +27,7 @@
       
       <guid>/form/form/</guid>
       <description> Should you wish to work at the facility please fill out the form below. if you have any queries please contact Bob Dagg
-email: core@otago.ac.nz (note: create a role based email) phone: 021 279 5815
+email: orca@otago.ac.nz (note: have requested a role based email) phone: 021 279 5815
  </description>
     </item>
     
@@ -40,6 +40,15 @@ email: core@otago.ac.nz (note: create a role based email) phone: 021 279 5815
       <description> The Otago Coring Repository has the following facilities and equipment:
  Geotek MultiSensor Core Logger iTrax XRF core scanner Geotek Core Splitter Multiple Refrigerated Containers for Core Storage Bench space with access to natural light for visual core logging  Other facilities available for analysis of cores and core samples at the University of Otago include
  The Otago Paleomagnetic Research Facility located in the Geology Department. This facility contains  Cryogenic Magnetometer located in a magnetic feild free room MFK1 Kappabridge Vibrating Sample Magnetometer  Laser Grain Size Analyser located in the Geography Department  </description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>/links/link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/links/link/</guid>
+      <description>Intergrated Ocean Drilling Program The International Ocean Discovery Program (IODP) is an international marine research collaboration that explores Earth’s history and dynamics using ocean-going research platforms to recover data recorded in seafloor sediments and rocks and to monitor subseafloor environments. IODP depends on facilities funded by three platform providers with financial contributions from five additional partner agencies. Together, these entities represent twenty-three nations whose scientists are selected to staff IODP research expeditions conducted throughout the world’s oceans.</description>
     </item>
     
     <item>

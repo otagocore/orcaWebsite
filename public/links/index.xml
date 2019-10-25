@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on Otago Repository for Core Analysis</title>
+    <link>/links/</link>
+    <description>Recent content in Links on Otago Repository for Core Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Links</title>
+      <link>/links/link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/links/link/</guid>
+      <description>Intergrated Ocean Drilling Program The International Ocean Discovery Program (IODP) is an international marine research collaboration that explores Earth’s history and dynamics using ocean-going research platforms to recover data recorded in seafloor sediments and rocks and to monitor subseafloor environments. IODP depends on facilities funded by three platform providers with financial contributions from five additional partner agencies. Together, these entities represent twenty-three nations whose scientists are selected to staff IODP research expeditions conducted throughout the world’s oceans.</description>
+    </item>
+    
+  </channel>
+</rss>
