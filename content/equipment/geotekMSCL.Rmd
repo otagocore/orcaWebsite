@@ -1,8 +1,7 @@
-# Geotek Multi Sensor Core Logger
+---
+title: "Geotek Multi-Sensor Core Logger"
+---
 
-<!-- --- -->
-<!-- title: "Geotek Multi-Sensor Core Logger" -->
-<!-- --- -->
 
 The Geotek MSCL situated at ORCA is an instrument for gathering data in an automated and quality-controlled way. The parameters that can be measured are
 

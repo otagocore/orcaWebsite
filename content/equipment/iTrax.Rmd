@@ -1,7 +1,5 @@
 ---
 title: "iTrax XRF Corescanner"
-output: html_document
-#runtime: shiny
 ---
 
 
